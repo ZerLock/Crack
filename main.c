@@ -12,8 +12,8 @@ int main(int argc, char *argv[]){
         mailaddress[x] = x;
     int passmail[n];
     passmail[0] = 474;
+    srand(time(NULL));
     for(int a = 1; a < n; a++){
-        srand(time(NULL));
         passmail[a] = (rand() % (MAX - MIN + 1)) + MIN;
     }
     
