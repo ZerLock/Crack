@@ -7,7 +7,7 @@
 #define TAILLE_CHAINE 100
 
 int main(int argc, char *argv[]){
-    int n, x = 0, y = 0, u = 0;
+    int n, x = 0, y = 0, u = 0m;
     scanf("%d", &n);
 
     char actualCaracter, mailaddress[TAILLE_CHAINE] = "", passmail[TAILLE_CHAINE] = "";
