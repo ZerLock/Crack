@@ -1,6 +1,6 @@
 # Crack
 
-"A program coded in C to crack accounts."
+"A program coded in C to "crack accounts" -> to test some things"
 
 ## The idea :
 
